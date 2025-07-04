@@ -13,7 +13,7 @@ Through data analysis, I was able find patterns and insights that could help inf
 - RStudio
 
 ## How to use this repository
-1. Read the insights in `Bellabeat_Case_Study.Rmd`
+1. Read the insights in `Bellabeat_Case_Study.ipynb`
 
 ## Additional links
 - [Notebook on Kaggle](https://www.kaggle.com/code/carvalhojoao/bellabeat-case-study-google-data-analytics)
