@@ -10,7 +10,7 @@ Through data analysis, I was able find patterns and insights that could help inf
 - Period: March to May 2016
 
 ## Tools used
-- RStudio
+- R with RStudio
 
 ## How to use this repository
 1. Read the insights in `Bellabeat_Case_Study.ipynb`
